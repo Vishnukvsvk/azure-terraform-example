@@ -22,6 +22,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "r1" {
-  name     = "g123"
+  name     = "g12345"
   location = "West Us"
 }
